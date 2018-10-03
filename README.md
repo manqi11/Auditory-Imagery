@@ -3,7 +3,7 @@
 
 This respoitory contains the data for an ERP study that investigated how auditory imagery of native and non-native speech affects language processing and comrepehension. The study has been published in Zhou, Garnsey, & Christianson (2018). The data includes individual ERP data when participants were performing auditory imagery of native and non-native English speech during silent reading vs. normal silent reading, and behavioral results from participants performing the Nelson-Denny Reading Comprehension task (Brown, Fishco, & Hanna, 1993) and Bucknell Auditory Imagery Scale (BAIS)(Herholz, Halpern, & Zatorre, 2012). The repository includes the R scripts used to carry out the statistical analyses reported in the original paper.
 
-## References
+#### References
 
 Brown, J. I., Fishco, V. V., & Hanna, G. (1993). _Nelson-Denny reading test: Manual for scoring and interpretation, forms G & H_. Riverside Publishing Company.
 
