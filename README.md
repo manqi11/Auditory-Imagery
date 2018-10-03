@@ -5,4 +5,5 @@ This respoitory contains the data for a study that investigated how auditory ima
 
 ## References
 Zhou, P., Garnsey, S., & Christianson, K. (2018). Is imagining a voice like listening to it? Evidence from ERPs. _Cognition_. 
+
 Zhou, P., Garnsey, S., & Christianson, K. (in press). ERP data on Auditory Imagery of native and non-native English speech during silent reading. _Data in Brief_. 
